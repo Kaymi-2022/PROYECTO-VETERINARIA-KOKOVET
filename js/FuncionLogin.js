@@ -1,4 +1,4 @@
-function abrirLogin(){
+/* function abrirLogin(){
     document.querySelector(".contenedor-login").style.transition = "transform 4s";
     document.querySelector(".contenedor-login").style.opacity = "1";
     document.querySelector(".contenedor-login").style.visibility = "visible";
@@ -7,4 +7,9 @@ function abrirLogin(){
 function cerrarLogin() {
 
     document.querySelector(".contenedor-login form").style.transform= "translateX(-350%)";
+} */
+
+function abrirLogin(){
+    window.location.href="./es.kokovet.vista/login.html";
+
 }

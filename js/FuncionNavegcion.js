@@ -14,6 +14,6 @@ function producto(){
     window.location.href="../es.kokovet.vista/Productos.php";
 }
 function inicio(){
-    window.location.href="../index.php";
+    window.location.href="../index.html";
 }
 
