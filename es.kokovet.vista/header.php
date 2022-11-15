@@ -79,10 +79,10 @@
     <!--           <button class="close" onclick="cerrarLogin()"> X</button>-->
     <!--           <img src="../IMG/avatar.png" class="avatar" alt="Avatar Image">-->
     <!--           <h1>Ingrese Sesión</h1>-->
-    <!--           <!--username-->-->
+    <!--           username-->
     <!--           <label for="username">Username</label>-->
     <!--           <input type="text">-->
-    <!--           <!-- PASSWORD INPUT -->-->
+    <!--           PASSWORD INPUT -->
     <!--           <label for="password">Password</label>-->
     <!--           <input type="password">-->
     <!--           <input type="submit" value="Ingresar">-->

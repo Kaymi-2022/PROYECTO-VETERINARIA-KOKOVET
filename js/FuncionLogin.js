@@ -10,6 +10,6 @@ function cerrarLogin() {
 } */
 
 function abrirLogin(){
-    window.location.href="./es.kokovet.vista/login.html";
+    window.location.href="../es.kokovet.vista/login.html";
 
 }
